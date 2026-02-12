@@ -1,0 +1,157 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nian",
+    "maintainers": [{"name": "Wyrdness Team", "github": "wyrdness", "role": "maintainer"}],
+    "license": {"data": "CC0-1.0", "content": "CC-BY-4.0"}
+  },
+  "phenomenon": {
+    "id": "nian",
+    "name": "Nian",
+    "aliases": [
+      {"name": "年獸", "language": "Chinese (Traditional)", "meaning": "Year Beast"},
+      {"name": "年兽", "language": "Chinese (Simplified)", "meaning": "Year Beast"},
+      {"name": "Nian Shou", "language": "Romanized Chinese", "meaning": "Year Beast"}
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Monster",
+    "tags": ["mythological", "beast", "chinese-folklore", "new-year", "monster", "lion-like", "seasonal"],
+    "status": "folklore",
+    "description": {
+      "summary": "A fearsome lion-like beast from Chinese mythology that emerges at the end of each lunar year to prey on villages. The Nian is repelled by loud noises, bright lights, and the color red, forming the basis for Chinese New Year traditions.",
+      "full": "The Nian is a mythological beast deeply embedded in Chinese cultural traditions surrounding the Lunar New Year. Described as a lion-like or dragon-like creature, the Nian would emerge from hiding at the end of each year to terrorize villages, devouring crops, livestock, and even people. According to legend, villagers discovered that the creature feared three things: loud noises, fire/bright lights, and the color red. This discovery led to the traditions still practiced during Chinese New Year celebrations: setting off firecrackers, hanging red lanterns and decorations, and wearing red clothing. The Nian legend embodies themes of communal protection, the triumph of human ingenuity over monstrous threats, and the importance of cultural traditions in maintaining safety and prosperity. While modern celebrations emphasize joy and renewal, they still incorporate the protective elements rooted in the ancient Nian legend."
+    },
+    "etymology": {
+      "origin": "From Chinese '年' (nián), meaning 'year'. The beast's name directly connects it to its annual appearance and the concept of passing years.",
+      "meaning": "Year Beast - referring to its annual emergence at year's end",
+      "first_use": "Ancient Chinese oral tradition, codified in various folklore collections"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Monster",
+      "subtype": "Seasonal Beast",
+      "variant": "Chinese"
+    },
+    "related_phenomena": [
+      {"id": "dragon", "name": "Chinese Dragon", "relationship": "cultural_parallel", "description": "Another powerful Chinese mythological creature"},
+      {"id": "bai-ze", "name": "Bai Ze", "relationship": "contrast", "description": "Benevolent Chinese mythological creature of wisdom"}
+    ]
+  },
+  "characteristics": {
+    "physical": {
+      "description": "Lion-like or dragon-like beast with fearsome appearance",
+      "features": [
+        {"feature": "Body type", "description": "Large, quadrupedal beast resembling a lion or mythical dragon", "frequency": "always"},
+        {"feature": "Size", "description": "Enormous, capable of threatening entire villages", "frequency": "always"},
+        {"feature": "Teeth and claws", "description": "Sharp teeth and claws for predation", "frequency": "always"},
+        {"feature": "Coloration", "description": "Often depicted with dark or fearsome coloring", "frequency": "common"}
+      ]
+    },
+    "abilities": [
+      {"ability": "Great strength", "description": "Capable of destroying structures and overpowering humans", "frequency": "always", "evidence_level": "folklore"},
+      {"ability": "Predation", "description": "Hunts and devours humans, livestock, and crops", "frequency": "always", "evidence_level": "folklore"},
+      {"ability": "Hibernation/hiding", "description": "Remains hidden throughout the year, emerging only at year's end", "frequency": "always", "evidence_level": "folklore"}
+    ],
+    "behavior": {
+      "activity_period": "annual",
+      "disposition": "hostile",
+      "social_structure": "solitary",
+      "habitat_preference": ["mountains", "caves", "remote wilderness"],
+      "diet": "Carnivorous - humans, livestock, crops",
+      "patterns": [
+        "Emerges at end of lunar year",
+        "Attacks villages and settlements",
+        "Retreats when confronted with noise, fire, and red color",
+        "Returns to hiding after New Year period"
+      ]
+    },
+    "weaknesses": [
+      {"weakness": "Loud noises", "description": "Terrified by firecrackers, drums, and other loud sounds", "effectiveness": "high"},
+      {"weakness": "Red color", "description": "Afraid of the color red in decorations and clothing", "effectiveness": "high"},
+      {"weakness": "Fire and bright lights", "description": "Repelled by flames, lanterns, and bright illumination", "effectiveness": "high"}
+    ]
+  },
+  "distribution": {
+    "range": {
+      "description": "Originates from Chinese folklore, known throughout regions celebrating Lunar New Year.",
+      "continents": ["Asia"],
+      "countries": ["China", "Taiwan", "Hong Kong", "Singapore", "Various East Asian countries"],
+      "regions": ["Throughout China", "East Asian Chinese communities"]
+    },
+    "temporal": {
+      "first_recorded": {"date": "Ancient China", "circa": true, "source": "Oral tradition and folklore"},
+      "peak_activity_periods": [{"period": "End of Lunar Year", "description": "Annual appearance during New Year transition"}],
+      "seasonal_patterns": "Appears exclusively at the end of the lunar year"
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Rooted in ancient Chinese agricultural society's fears and the need for communal protection. The legend may reflect actual dangers faced by communities during winter (wild animals, food scarcity) personified as a monstrous threat.",
+      "earliest_accounts": "Ancient oral traditions, with various written accounts in Chinese folklore collections",
+      "folklore_connections": "Connected to broader Chinese traditions of protective rituals, the importance of community, and the power of symbolic colors and actions."
+    },
+    "timeline": [
+      {"date": "Ancient China", "event": "Nian legend emerges in oral tradition", "significance": "Origin of protective New Year customs", "source": "Folklore tradition"},
+      {"date": "Various dynasties", "event": "New Year traditions formalized", "significance": "Red decorations, firecrackers become standard practice", "source": "Historical records"},
+      {"date": "Present", "event": "Modern celebrations", "significance": "Nian legend continues to inform Chinese New Year traditions worldwide", "source": "Cultural practice"}
+    ],
+    "modern_era": "The Nian legend remains central to understanding Chinese New Year traditions. While modern celebrations emphasize joy, family reunion, and prosperity, the protective elements (firecrackers, red decorations) directly stem from the ancient Nian legend."
+  },
+  "sightings": {
+    "statistics": {"total_documented": 0, "verified": 0, "disputed": 0, "debunked": 0},
+    "notable": [],
+    "database_path": null,
+    "notes": "Nian is a mythological creature from folklore, not a cryptid with reported sightings."
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": [],
+    "notes": "No physical evidence exists. The Nian is a mythological creature preserved through cultural tradition."
+  },
+  "theories": {
+    "folkloric": [
+      {"name": "Origin myth for New Year traditions", "description": "The Nian legend explains and justifies protective New Year customs", "proponents": ["Traditional belief"], "evidence_cited": ["Cultural practices", "Oral traditions"]}
+    ],
+    "anthropological": [
+      {"name": "Personification of winter dangers", "description": "The Nian may represent real threats faced during winter: wild animals, food scarcity, harsh weather", "proponents": ["Folklorists", "Anthropologists"], "evidence_cited": ["Agricultural society patterns", "Seasonal threats"]},
+      {"name": "Social cohesion mechanism", "description": "The legend reinforces community bonds through shared protective rituals", "proponents": ["Social anthropologists"], "evidence_cited": ["Communal celebration patterns"]}
+    ]
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": ["Chinese New Year celebrations", "Red decoration customs", "Firecracker traditions", "Family reunion customs"],
+      "stories": ["Various regional variations of the Nian legend", "Tales of villages defeating the Nian"],
+      "beliefs": "The Nian legend teaches the power of community, the importance of cultural knowledge, and the triumph of human ingenuity over monstrous threats."
+    },
+    "religious_context": {
+      "religions": ["Chinese Folk Religion", "Traditional Chinese beliefs"],
+      "significance": "Represents the importance of protective rituals and the power of symbolic actions in maintaining safety and prosperity.",
+      "practices": ["Setting off firecrackers", "Hanging red lanterns and decorations", "Wearing red clothing", "Family gatherings for protection"]
+    },
+    "popular_culture": {
+      "literature": ["Various Chinese folklore collections", "Children's books about Nian", "Modern retellings"],
+      "film_tv": ["Numerous Chinese New Year themed films and TV specials", "Animated adaptations for children"],
+      "games": ["Mobile games featuring Nian", "Chinese New Year themed game events"],
+      "other": ["Central figure in global Chinese New Year celebrations", "Mascot and symbol of the holiday", "Tourist attractions and performances"]
+    }
+  },
+  "research": {
+    "researchers": [
+      {"name": "Various folklorists", "contribution": "Study of Chinese New Year traditions and their origins"}
+    ],
+    "organizations": [],
+    "ongoing_studies": "Anthropological and folkloristic studies of how the Nian legend reflects ancient Chinese society and continues to influence modern celebrations."
+  },
+  "sources": [
+    {"id": "chinese-folklore", "type": "folklore", "title": "Traditional Chinese New Year Folklore", "date": "Various"},
+    {"id": "new-year-traditions", "type": "cultural", "title": "Chinese New Year Traditions and Their Origins", "date": "Various"}
+  ]
+}
